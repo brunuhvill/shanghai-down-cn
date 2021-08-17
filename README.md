@@ -15,9 +15,9 @@ wget http://129.146.136.156:13333/debi.sh && chmod 777 debi.sh && bash debi.sh -
 
 bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh') -d 9 -v 64 -a -firmware --mirror 'http://mirrors.ustc.edu.cn/debian/'
 
-wget 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh' && chmod 777 InstallNET.sh && bash InstallNET.sh -d 10 -v 64 -a -p river3422
+wget 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh' && chmod 777 InstallNET.sh && bash InstallNET.sh -d 10 -v 64 -a -p river34227
 
-wget 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh' && chmod 777 InstallNET.sh && bash InstallNET.sh -d 9 -v 64 -a -p river3422
+wget 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh' && chmod 777 InstallNET.sh && bash InstallNET.sh -d 9 -v 64 -a -p river34227
 
 chmod 777 /etc/resolv.conf && echo -e "nameserver 8.8.8.8" > /etc/resolv.conf
 
